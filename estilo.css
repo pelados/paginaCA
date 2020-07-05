@@ -1,0 +1,25 @@
+
+
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+  width: 80%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.contenedor{
+  background-image: ;
+  url("imagenes/atardecer")
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+}
